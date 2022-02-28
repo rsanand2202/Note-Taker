@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rsanand2202/Note-Taker/issues"
   },
-  "homepage": "https://github.com/rsanand2202/Note-Taker#readme"
+  "homepage": "https://github.com/rsanand2202/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
